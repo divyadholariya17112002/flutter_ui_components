@@ -80,37 +80,31 @@ Dev dependencies:
 - `freezed`
 - `json_serializable`
 
-## Screenshots Placeholder
+## 📱 Screenshots
 
-Add screenshots in the following location:
+| Login | Register |
+|-------|----------|
+| ![](assets/screens/login.png) | ![](assets/screens/register.png) |
 
-```text
-assets/screenshots/
-```
+| Forgot Password | Splash |
+|-----------------|---------|
+| ![](assets/screens/forgot_password.png) | ![](assets/screens/splash.png) |
 
-Recommended filenames:
+| Home | Showcase Home |
+|------|---------------|
+| ![](assets/screens/home.png) | ![](assets/screens/showcase_home.png) |
 
-```text
-assets/screenshots/login.png
-assets/screenshots/register.png
-assets/screenshots/forgot_password.png
-assets/screenshots/splash.png
-assets/screenshots/home.png
-assets/screenshots/showcase_home.png
-assets/screenshots/buttons_demo.png
-assets/screenshots/textfields_demo.png
-assets/screenshots/cards_demo.png
-assets/screenshots/dialogs_demo.png
-assets/screenshots/loaders_demo.png
-assets/screenshots/navigation_demo.png
-```
+| Buttons | TextFields |
+|---------|------------|
+| ![](assets/screens/buttons_demo.png) | ![](assets/screens/textfields_demo.png) |
 
-Embed screenshots in README like this:
+| Cards | Dialogs |
+|-------|----------|
+| ![](assets/screens/cards_demo.png) | ![](assets/screens/dialogs_demo.png) |
 
-```md
-![Login](assets/screenshots/login.png)
-![Showcase Home](assets/screenshots/showcase_home.png)
-```
+| Loaders | Navigation |
+|---------|------------|
+| ![](assets/screens/loaders_demo.png) | ![](assets/screens/navigation_demo.png) |
 
 ## How to Run
 
