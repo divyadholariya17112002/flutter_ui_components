@@ -82,29 +82,37 @@ Dev dependencies:
 
 ## 📱 Screenshots
 
-| Login | Register |
-|-------|----------|
-| ![](assets/screens/login.png) | ![](assets/screens/register.png) |
-
-| Forgot Password | Splash |
-|-----------------|---------|
-| ![](assets/screens/forgot_password.png) | ![](assets/screens/splash.png) |
-
-| Home | Showcase Home |
+| Home | UI Components |
 |------|---------------|
-| ![](assets/screens/home.png) | ![](assets/screens/showcase_home.png) |
+| ![](assets/screens/home_page.png) | ![](assets/screens/ui_components.png) |
 
-| Buttons | TextFields |
-|---------|------------|
-| ![](assets/screens/buttons_demo.png) | ![](assets/screens/textfields_demo.png) |
+| Buttons | Text Fields |
+|---------|-------------|
+| ![](assets/screens/buttons.png) | ![](assets/screens/text_fields.png) |
 
-| Cards | Dialogs |
-|-------|----------|
-| ![](assets/screens/cards_demo.png) | ![](assets/screens/dialogs_demo.png) |
+| Cards | Dialog |
+|-------|--------|
+| ![](assets/screens/cards.png) | ![](assets/screens/dialog.png) |
 
-| Loaders | Navigation |
-|---------|------------|
-| ![](assets/screens/loaders_demo.png) | ![](assets/screens/navigation_demo.png) |
+| Chips | Badges |
+|-------|--------|
+| ![](assets/screens/chips.png) | ![](assets/screens/badgets.png) |
+
+| Bottom Sheet | List Tiles |
+|--------------|------------|
+| ![](assets/screens/bottomsheet.png) | ![](assets/screens/list_tiles.png) |
+
+| Snackbar | Loader |
+|----------|--------|
+| ![](assets/screens/snackbar.png) | ![](assets/screens/loader.png) |
+
+| Progress Indicator | Navigation |
+|--------------------|------------|
+| ![](assets/screens/progress_indecater.png) | ![](assets/screens/navigation.png) |
+
+| Avatar |
+|--------|
+| ![](assets/screens/avtar.png) |
 
 ## How to Run
 
